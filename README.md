@@ -6,6 +6,7 @@
 [image2]: ./images/vgg16_model.png "VGG-16 Model Keras Layers"
 [image3]: ./images/vgg16_model_draw.png "VGG16 Model Figure"
 
+My blog: https://www.kaggle.com/dovannhan/dog-breed-detection?scriptVersionId=76479099
 
 ## Project Overview
 
